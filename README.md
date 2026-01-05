@@ -2,6 +2,8 @@
 
 A Java Swing desktop application designed for **Tarlac State University (TSU)** students to automate the creation of official excuse letters. The system ensures that document formatting, university branding, and specific academic policies are consistently applied.
 
+OOP CASE STUDY V2
+
 ## 🛠 Technical Stack
 
 * **Language:** Java (JDK 8 or higher)
